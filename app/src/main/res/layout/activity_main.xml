@@ -16,6 +16,7 @@
     android:paddingRight="44dp">
 
     <Button
+        android:id="@+id/btn_login"
         android:layout_alignParentLeft="true"
         android:layout_width="100dp"
         android:layout_height="40dp"
@@ -25,6 +26,7 @@
         android:textSize="20sp"
         />
     <Button
+        android:id="@+id/btn_register"
         android:layout_alignParentRight="true"
         android:layout_width="100dp"
         android:layout_height="40dp"
